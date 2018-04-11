@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Billy Quilty
 
-You can use the [editor on GitHub](https://github.com/bquilty25/bquilty25.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+**Imperial College London**
+_MSc Epidemiology candidate 2017/2018_
+- Holder of a School of Public Health Masters Scholarship for Academic Excellence
+- Dissertation title: The Effect of Low-density Plasmodium falciparum Infections in Mosquitos on Transmission to Humans
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**University of Reading**
+_BSc Biological Sciences, First Class Honours, July 2017_
+- Dissertation title: Isolation and Characterisation of Bacteriophage for Biocontrol of Pseudomonas syringae, Causative Agent of Canker in Prunus spp.
 
-### Markdown
+### Skills
+- Epidemiology: Hypothesis generation, data collection, study design, review of current literature, infectious and chronic disease biology, epidemic modelling, outbreak control intervention, contact-tracing, surveillance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Statistical Analysis: Analysis and management of large datasets in R/Stata/Excel, hypothesis testing, advanced statistical methods, parameter estimation, Bayesian methods, interpretation of research findings
 
-```markdown
-Syntax highlighted code block
+- Coordination and Communication: Team-building and leadership, professionalism, funding application, working in time-sensitive situations, organisation of a large project, presentation of findings to audiences of varying subject knowledge, report writing, data visualisation
 
-# Header 1
-## Header 2
-### Header 3
+### Experience
+**University of Reading/NIAB East Malling Research**
+_Undergraduate Research Studentship, July–Sept 2016_        
+- Isolation and Characterisation of Bacteriophage for Biocontrol of Pseudomonas syringae, Causative Agent of Canker in Prunus spp.
+- Funding: British Society of Plant Pathology
+- Supervisors: Prof. Rob Jackson, UoR, Dr. Robert Saville, NIAB EMR
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bquilty25/bquilty25.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**University of Akureyri**
+_Arctic Microbial Ecology Field Course, July 2016_            
+- Two-week collaborative international field trip
+- Research project involving sampling and cultivating microbes for bioremediation of Artic oil spills
