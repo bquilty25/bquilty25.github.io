@@ -20,7 +20,7 @@ _BSc Biological Sciences, First Class Honours, July 2017_
 ### Experience
 **University of Reading/NIAB East Malling Research**
 _Undergraduate Research Studentship, July–Sept 2016_        
-- Isolation and Characterisation of Bacteriophage for Biocontrol of Pseudomonas syringae, Causative Agent of Canker in Prunus spp.
+- Isolation and Characterisation of Bacteriophage for Biocontrol of _Pseudomonas syringae_, Causative Agent of Canker in _Prunus spp._
 - Funding: British Society of Plant Pathology
 - Supervisors: Prof. Rob Jackson, UoR, Dr. Robert Saville, NIAB EMR
 
