@@ -8,7 +8,7 @@ _MSc Epidemiology candidate 2017/2018_
 
 **University of Reading**
 _BSc Biological Sciences, First Class Honours, July 2017_
-- Dissertation title: Isolation and Characterisation of Bacteriophage for Biocontrol of _Pseudomonas syringae_, Causative Agent of Canker in Prunus spp.
+- Dissertation title: Isolation and Characterisation of Bacteriophage for Biocontrol of _Pseudomonas syringae_, Causative Agent of Canker in _Prunus spp._
 
 ### Skills
 - Epidemiology: Hypothesis generation, data collection, study design, review of current literature, infectious and chronic disease biology, epidemic modelling, outbreak control intervention, contact-tracing, surveillance
