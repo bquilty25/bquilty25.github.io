@@ -4,11 +4,11 @@
 **Imperial College London**
 _MSc Epidemiology candidate 2017/2018_
 - Holder of a School of Public Health Masters Scholarship for Academic Excellence
-- Dissertation title: The Effect of Low-density Plasmodium falciparum Infections in Mosquitos on Transmission to Humans
+- Dissertation title: The Effect of Low-density _Plasmodium falciparum_ Infections in Mosquitos on Transmission to Humans
 
 **University of Reading**
 _BSc Biological Sciences, First Class Honours, July 2017_
-- Dissertation title: Isolation and Characterisation of Bacteriophage for Biocontrol of Pseudomonas syringae, Causative Agent of Canker in Prunus spp.
+- Dissertation title: Isolation and Characterisation of Bacteriophage for Biocontrol of _Pseudomonas syringae_, Causative Agent of Canker in Prunus spp.
 
 ### Skills
 - Epidemiology: Hypothesis generation, data collection, study design, review of current literature, infectious and chronic disease biology, epidemic modelling, outbreak control intervention, contact-tracing, surveillance
